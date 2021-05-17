@@ -1,7 +1,7 @@
 # Hi there 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BOOMER74&color=316DCA&style=flat-square)](#hi-there-)
-[![Repos count](https://badges.pufler.dev/commits/monthly/BOOMER74?color=316DCA&style=flat-square)](#hi-there-)
+[![Monthly commits](https://badges.pufler.dev/commits/monthly/BOOMER74?color=316DCA&style=flat-square)](#hi-there-)
 [![Repos count](https://badges.pufler.dev/repos/BOOMER74?color=316DCA&style=flat-square)](#hi-there-)
 [![Member years](https://badges.pufler.dev/years/BOOMER74?color=316DCA&style=flat-square)](#hi-there-)
 
