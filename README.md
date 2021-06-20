@@ -2,8 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=BOOMER74&color=316DCA&style=flat-square)](#-hi-there)
 [![Member, years](https://badges.pufler.dev/years/BOOMER74?label=Member,%20years&color=316DCA&style=flat-square)](#-hi-there)
-[![Working status](https://img.shields.io/static/v1?label=Working%20status&message=hired&color=316DCA&style=flat-square)](#-hi-there)
-[![Last activity view](https://img.shields.io/static/v1?label=Last%20activity&message=view&color=316DCA&style=flat-square)](https://github.com/BOOMER74#year-list-container)
+[![GPG key ID](https://img.shields.io/static/v1?label=GPG&message=BA01F56B4723D4BB&color=1E7E34&style=flat-square)](#-hi-there)
 
 ## 📈 Stats
 
