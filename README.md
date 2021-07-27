@@ -12,6 +12,7 @@
 
 ## 💡 Maintained projects
 
+[![esp8266_relay_server](https://github-readme-stats.vercel.app/api/pin/?username=BOOMER74&repo=esp8266_relay_server&bg_color=2D333B&border_color=444C56&title_color=316DCA&text_color=ADBAC7)](https://github.com/BOOMER74/esp8266_relay_server)
 [![node-red-contrib-mihome](https://github-readme-stats.vercel.app/api/pin/?username=BOOMER74&repo=node-red-contrib-mihome&bg_color=2D333B&border_color=444C56&title_color=316DCA&text_color=ADBAC7)](https://github.com/BOOMER74/node-red-contrib-mihome)
 
 [All projects 🗃️](https://github.com/BOOMER74?tab=repositories)
