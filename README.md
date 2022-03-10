@@ -21,24 +21,24 @@
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/BOOMER74/node-red-contrib-mihome)
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/BOOMER74/WebCamServer)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](https://github.com/BOOMER74/excel_mysql)
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)](#languages)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/BOOMER74/node-red-contrib-mihome)
+[![Python](https://img.shields.io/badge/python-%2314354C?&style=for-the-badge&logo=python&logoColor=white)](https://github.com/BOOMER74/WebCamServer)
+[![PHP](https://img.shields.io/badge/php-%23777BB4?&style=for-the-badge&logo=php&logoColor=white)](https://github.com/BOOMER74/excel_mysql)
+[![Dart](https://img.shields.io/badge/dart-%230175C2?&style=for-the-badge&logo=dart&logoColor=white)](#languages)
 
 ### Frameworks
 
-[![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/BOOMER74/node-red-contrib-mihome)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#frameworks)
-[![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#frameworks)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)](#frameworks)
+[![Node.js](https://img.shields.io/badge/node.js-%2343853D?&style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/BOOMER74/node-red-contrib-mihome)
+[![React](https://img.shields.io/badge/react-%2320232a?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#frameworks)
+[![React Native](https://img.shields.io/badge/react_native-%2320232a?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#frameworks)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B?&style=for-the-badge&logo=Flutter&logoColor=white)](#frameworks)
 
 ### Databases
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#databases)
-[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](#databases)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](#databases)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](#databases)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f?&style=for-the-badge&logo=mysql&logoColor=white)](#databases)
+[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192?&style=for-the-badge&logo=postgresql&logoColor=white)](#databases)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logo=mongodb&logoColor=white)](#databases)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white)](#databases)
 
 ### Technologies
 
@@ -51,6 +51,6 @@
 ### IDE
 
 [![WebStorm](http://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](#ide)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](#ide)
-[![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#ide)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=white)](#ide)
+[![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](#ide)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#ide)
