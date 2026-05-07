@@ -6,13 +6,13 @@
 
 ## 📈 Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BOOMER74&custom_title=GitHub%20Stats&show_icons=true&bg_color=2D333B&border_color=444C56&title_color=ADBAC7&icon_color=316DCA&text_color=ADBAC7)](#-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BOOMER74&custom_title=GitHub%20Stats&show_icons=true&bg_color=2D333B&border_color=444C56&title_color=ADBAC7&icon_color=316DCA&text_color=ADBAC7)](#-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BOOMER74&layout=compact&bg_color=2D333B&border_color=444C56&title_color=ADBAC7&text_color=ADBAC7)](#-stats)
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BOOMER74&layout=compact&bg_color=2D333B&border_color=444C56&title_color=ADBAC7&text_color=ADBAC7)](#-stats)
 
 ## 💡 Maintained projects
 
-[![node-red-contrib-mihome](https://github-readme-stats.vercel.app/api/pin/?username=BOOMER74&repo=node-red-contrib-mihome&bg_color=2D333B&border_color=444C56&title_color=316DCA&text_color=ADBAC7)](https://github.com/BOOMER74/node-red-contrib-mihome)
+[![node-red-contrib-mihome](https://github-stats-extended.vercel.app/api/pin/?username=BOOMER74&repo=node-red-contrib-mihome&bg_color=2D333B&border_color=444C56&title_color=316DCA&text_color=ADBAC7)](https://github.com/BOOMER74/node-red-contrib-mihome)
 
 [All projects 🗃️](https://github.com/BOOMER74?tab=repositories)
 
